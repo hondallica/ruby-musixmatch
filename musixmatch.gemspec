@@ -1,14 +1,14 @@
 # frozen_string_literal: true
 
-require_relative 'lib/musicmatch/version'
+require_relative 'lib/musixmatch/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'musicmatch'
-  spec.version       = Musicmatch::VERSION
+  spec.name          = 'musixmatch'
+  spec.version       = Version.version
   spec.authors       = ['Hondallica']
   spec.email         = ['hondallica@gmail.com']
 
-  spec.summary       = 'musixmatch API client library'
+  spec.summary       = 'musiXmatch API client library'
   spec.homepage      = 'https://github.com/hondallica/ruby-musixmatch'
   spec.license       = 'MIT'
   spec.required_ruby_version = Gem::Requirement.new('>= 2.5.0')

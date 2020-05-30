@@ -1,0 +1,162 @@
+{
+    "message": {
+        "header": {
+            "status_code": 200,
+            "execute_time": 0.016196966171265
+        },
+        "body": {
+            "track_list": [
+                {
+                    "track": {
+                        "track_id": 198016544,
+                        "track_name": "Sour Candy (with BLACKPINK)",
+                        "track_name_translation_list": [],
+                        "track_rating": 100,
+                        "commontrack_id": 111786701,
+                        "instrumental": 0,
+                        "explicit": 1,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 1,
+                        "num_favourite": 90,
+                        "album_id": 38487438,
+                        "album_name": "Sour Candy (with BLACKPINK)",
+                        "artist_id": 45568932,
+                        "artist_name": "Lady Gaga feat. BLACKPINK",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Lady-Gaga/Track-10-1?utm_source=application&utm_campaign=api&utm_medium=hrhm.info%3A1409611237714",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Lady-Gaga/Track-10-1/edit?utm_source=application&utm_campaign=api&utm_medium=hrhm.info%3A1409611237714",
+                        "restricted": 0,
+                        "updated_time": "2020-05-29T10:32:03Z",
+                        "primary_genres": {
+                            "music_genre_list": []
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 196612003,
+                        "track_name": "Mediterranea",
+                        "track_name_translation_list": [],
+                        "track_rating": 80,
+                        "commontrack_id": 110576927,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 1,
+                        "album_id": 38027612,
+                        "album_name": "Mediterranea - Single",
+                        "artist_id": 28877462,
+                        "artist_name": "Irama",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Irama/Mediterranea?utm_source=application&utm_campaign=api&utm_medium=hrhm.info%3A1409611237714",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Irama/Mediterranea/edit?utm_source=application&utm_campaign=api&utm_medium=hrhm.info%3A1409611237714",
+                        "restricted": 0,
+                        "updated_time": "2020-05-22T08:29:13Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 34,
+                                        "music_genre_parent_id": 0,
+                                        "music_genre_name": "Music",
+                                        "music_genre_name_extended": "Music",
+                                        "music_genre_vanity": "Music"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 196771484,
+                        "track_name": "Good Times",
+                        "track_name_translation_list": [],
+                        "track_rating": 81,
+                        "commontrack_id": 107434256,
+                        "instrumental": 0,
+                        "explicit": 1,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 1,
+                        "num_favourite": 40,
+                        "album_id": 38089864,
+                        "album_name": "DNA",
+                        "artist_id": 31952579,
+                        "artist_name": "Ghali",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Ghali-2/Good-Times?utm_source=application&utm_campaign=api&utm_medium=hrhm.info%3A1409611237714",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Ghali-2/Good-Times/edit?utm_source=application&utm_campaign=api&utm_medium=hrhm.info%3A1409611237714",
+                        "restricted": 0,
+                        "updated_time": "2020-05-08T13:51:49Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 34,
+                                        "music_genre_parent_id": 0,
+                                        "music_genre_name": "Music",
+                                        "music_genre_name_extended": "Music",
+                                        "music_genre_vanity": "Music"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 194167470,
+                        "track_name": "Chega",
+                        "track_name_translation_list": [],
+                        "track_rating": 80,
+                        "commontrack_id": 108146465,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 1,
+                        "num_favourite": 44,
+                        "album_id": 37215486,
+                        "album_name": "Nuova Genesi",
+                        "artist_id": 33562276,
+                        "artist_name": "Gaia",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Gaia-20/Chega?utm_source=application&utm_campaign=api&utm_medium=hrhm.info%3A1409611237714",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Gaia-20/Chega/edit?utm_source=application&utm_campaign=api&utm_medium=hrhm.info%3A1409611237714",
+                        "restricted": 0,
+                        "updated_time": "2020-03-30T14:24:14Z",
+                        "primary_genres": {
+                            "music_genre_list": []
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 195215232,
+                        "track_name": "MAMACITA",
+                        "track_name_translation_list": [],
+                        "track_rating": 96,
+                        "commontrack_id": 109403555,
+                        "instrumental": 0,
+                        "explicit": 1,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 1,
+                        "num_favourite": 64,
+                        "album_id": 37558387,
+                        "album_name": "MAMACITA - Single",
+                        "artist_id": 45008391,
+                        "artist_name": "Black Eyed Peas feat. Ozuna & J.Rey Soul",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Black-Eyed-Peas-Ozuna-J-Rey-Soul/MAMACITA?utm_source=application&utm_campaign=api&utm_medium=hrhm.info%3A1409611237714",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Black-Eyed-Peas-Ozuna-J-Rey-Soul/MAMACITA/edit?utm_source=application&utm_campaign=api&utm_medium=hrhm.info%3A1409611237714",
+                        "restricted": 0,
+                        "updated_time": "2020-05-06T15:45:22Z",
+                        "primary_genres": {
+                            "music_genre_list": []
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

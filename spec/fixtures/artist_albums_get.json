@@ -1,0 +1,46 @@
+{
+    "message": {
+        "header": {
+            "status_code": 200,
+            "execute_time": 0.029879093170166,
+            "available": 95
+        },
+        "body": {
+            "album_list": [
+                {
+                    "album": {
+                        "album_id": 11339785,
+                        "album_mbid": null,
+                        "album_name": "Atlas (From \"The Hunger Games: Catching Fire\" Soundtrack)",
+                        "album_rating": 0,
+                        "album_track_count": 1,
+                        "album_release_date": "2013-09-06",
+                        "album_release_type": "Single",
+                        "artist_id": 1039,
+                        "artist_name": "Coldplay",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 1166,
+                                        "music_genre_parent_id": 16,
+                                        "music_genre_name": "Musicals",
+                                        "music_genre_name_extended": "Soundtrack \/ Musicals"
+                                    }
+                                }
+                            ]
+                        },
+                        "secondary_genres": {
+                            "music_genre_list": []
+                        },
+                        "album_pline": "2013 Parlophone Records Ltd. under exclusive license to Republic Records, a Division of UMG Recordings, Inc.",
+                        "album_copyright": "2013 Parlophone Records Ltd. under exclusive license to Republic Records, a Division of UMG Recordings, Inc.",
+                        "album_label": "Hunger Games 2\/Catching Fire",
+                        "updated_time": "2013-09-26T16:05:44Z",
+                        "album_coverart_100x100": "http:\/\/static.musixmatch.com\/images\/albums\/7\/3\/5\/4\/1\/5\/26514537.jpg"
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "message": {
+        "header": {
+            "status_code": 200,
+            "execute_time": 0.02262282371521
+        },
+        "body": {
+            "album": {
+                "album_id": 14250417,
+                "album_mbid": "83ad505b-c3f6-47c9-b830-fd2c8447c039",
+                "album_name": "Party Rock",
+                "album_rating": 100,
+                "album_track_count": 16,
+                "album_release_date": "2009-07-07",
+                "album_release_type": "Album",
+                "artist_id": 437407,
+                "artist_name": "LMFAO",
+                "primary_genres": {
+                    "music_genre_list": [
+                        {
+                            "music_genre": {
+                                "music_genre_id": 1132,
+                                "music_genre_parent_id": 14,
+                                "music_genre_name": "Britpop",
+                                "music_genre_name_extended": "Pop \/ Britpop"
+                            }
+                        },
+                        {
+                            "music_genre": {
+                                "music_genre_id": 7,
+                                "music_genre_parent_id": 34,
+                                "music_genre_name": "Electronic",
+                                "music_genre_name_extended": "Electronic"
+                            }
+                        }
+                    ]
+                },
+                "secondary_genres": {
+                    "music_genre_list": []
+                },
+                "album_pline": "2009 Interscope Records",
+                "album_copyright": "2009 Interscope Records",
+                "album_label": "Will I Am \/ A&M",
+                "updated_time": "2013-09-26T16:06:25Z",
+                "album_coverart_100x100": "http:\/\/static.musixmatch.com\/images\/albums8\/1\/1\/7\/9\/1\/4\/26419711.jpg"
+            }
+        }
+    }
+}

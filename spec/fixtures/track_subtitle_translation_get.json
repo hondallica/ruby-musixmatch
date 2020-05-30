@@ -1,0 +1,19 @@
+{
+    "message": {
+        "header": {
+            "status_code": 200,
+            "execute_time": 0.00136
+        },
+        "body": {
+            "subtitle": {
+                "subtitle_id": 20098364,
+                "subtitle_body": "[00:11.49] Heart beats fast\n[00:15.06] Colors and promises\n[00:20.36]",
+                "script_tracking_url": "https://tracking.musixmatch.com/t1.0/m_js/e_0/sn_0/l_0/su_20098364/rs_0/tr_3vUCALa7"
+            },
+            "subtitle_translated": {
+                "subtitle_body": "[00:11.49]Il cuore batte forte\n[00:15.06] Colori e promesse\nn[00:20.36]",
+                "script_tracking_url": "https://tracking.musixmatch.com/t1.0/m_js/e_0/sn_0/l_0/su_20098364/rs_0/tr_3vUCALa7"
+            }
+        }
+    }
+}

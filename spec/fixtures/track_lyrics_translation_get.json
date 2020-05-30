@@ -1,0 +1,20 @@
+{
+    "message": {
+        "header": {
+            "status_code": 200,
+            "execute_time": 0.00136
+        },
+        "body": {
+            "lyrics": {
+                "lyrics_id": 14919506,
+                "lyrics_body": "Heart beats fast \nColors and promises\n...",
+                "script_tracking_url": "https://tracking.musixmatch.com/b1.0/jsdkfljfskddl...",
+                "translated_lyrics": {
+                    "selected_language": "it",
+                    "lyrics_body": "Il cuore batte forte\nColori e promesse\n...",
+                    "script_tracking_url": "https://tracking.musixmatch.com/b1.0/jsdkfljfskdl..."
+                }
+            }
+        }
+    }
+}

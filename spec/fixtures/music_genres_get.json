@@ -1,0 +1,39 @@
+{
+    "message": {
+        "header": {
+            "status_code": 200,
+            "execute_time": 0.0080771446228027
+        },
+        "body": {
+            "music_genre_list": [
+                {
+                    "music_genre": {
+                        "music_genre_id": 34,
+                        "music_genre_parent_id": 0,
+                        "music_genre_name": "Music",
+                        "music_genre_name_extended": "Music",
+                        "music_genre_vanity": "Music"
+                    }
+                },
+                {
+                    "music_genre": {
+                        "music_genre_id": 1210,
+                        "music_genre_parent_id": 2,
+                        "music_genre_name": "Acoustic Blues",
+                        "music_genre_name_extended": "Blues / Acoustic Blues",
+                        "music_genre_vanity": "Blues-Acoustic-Blues"
+                    }
+                },
+                {
+                    "music_genre": {
+                        "music_genre_id": 1007,
+                        "music_genre_parent_id": 2,
+                        "music_genre_name": "Chicago Blues",
+                        "music_genre_name_extended": "Blues / Chicago Blues",
+                        "music_genre_vanity": "Blues-Chicago-Blues"
+                    }
+                }
+            ]
+        }
+    }
+}

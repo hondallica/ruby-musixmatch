@@ -1,0 +1,100 @@
+{
+    "message": {
+        "header": {
+            "status_code": 200,
+            "execute_time": 0.0073249340057373
+        },
+        "body": {
+            "artist_list": [
+                {
+                    "artist": {
+                        "artist_id": 33562276,
+                        "artist_name": "Gaia",
+                        "artist_name_translation_list": [],
+                        "artist_comment": "",
+                        "artist_country": "",
+                        "artist_alias_list": [],
+                        "artist_rating": 65,
+                        "artist_twitter_url": "",
+                        "artist_credits": {
+                            "artist_list": []
+                        },
+                        "restricted": 0,
+                        "updated_time": "2017-05-08T05:07:30Z"
+                    }
+                },
+                {
+                    "artist": {
+                        "artist_id": 13937035,
+                        "artist_name": "The Weeknd",
+                        "artist_name_translation_list": [
+                            {
+                                "artist_name_translation": {
+                                    "language": "JA",
+                                    "translation": "ザ・ウィークエンド"
+                                }
+                            }
+                        ],
+                        "artist_comment": "",
+                        "artist_country": "CA",
+                        "artist_alias_list": [
+                            {
+                                "artist_alias": "ザ・ウィークエンド"
+                            },
+                            {
+                                "artist_alias": "The Weekend"
+                            }
+                        ],
+                        "artist_rating": 100,
+                        "artist_twitter_url": "https://twitter.com/theweekndxo",
+                        "artist_credits": {
+                            "artist_list": []
+                        },
+                        "restricted": 0,
+                        "updated_time": "2017-01-28T07:00:26Z"
+                    }
+                },
+                {
+                    "artist": {
+                        "artist_id": 378462,
+                        "artist_name": "Lady Gaga",
+                        "artist_name_translation_list": [
+                            {
+                                "artist_name_translation": {
+                                    "language": "AR",
+                                    "translation": "لايدي غاغا"
+                                }
+                            }
+                        ],
+                        "artist_comment": "",
+                        "artist_country": "US",
+                        "artist_alias_list": [
+                            {
+                                "artist_alias": "لايدي غاغا"
+                            },
+                            {
+                                "artist_alias": "レディー ガガ"
+                            },
+                            {
+                                "artist_alias": "ga ga xiao jie"
+                            },
+                            {
+                                "artist_alias": "Lady Ga Ga"
+                            },
+                            {
+                                "artist_alias": "Stefani Joanne Angelina Germanotta"
+                            }
+                        ],
+                        "artist_rating": 91,
+                        "artist_twitter_url": "https://twitter.com/ladygaga",
+                        "artist_credits": {
+                            "artist_list": []
+                        },
+                        "restricted": 0,
+                        "updated_time": "2016-07-12T10:03:30Z"
+                    }
+                }
+            ]
+        }
+    }
+}

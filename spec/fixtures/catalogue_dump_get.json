@@ -1,0 +1,23 @@
+{
+    "message": {
+        "header": {
+            "status_code": 200,
+            "execute_time": 0.049940824508667
+        },
+        "body": {
+            "catalogue": {
+                "updated_time": "2017-02-07T13:49:01Z",
+                "catalogue_commontracks": {
+                    "url_list": [
+                        {
+                            "url": "http:\/\/static.musixmatch.com\/api\/catalogue\/201304\/C5A8048E7CE1-CE48-DEBF-02D6-C5A8048E7CE1\/commontracks-0.txt.gz"
+                        },
+                        {
+                            "url": "http:\/\/static.musixmatch.com\/api\/catalogue\/201304\/C5A8048E7CE1-CE48-DEBF-02D6-C5A8048E7CE1\/commontracks-1.txt.gz"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "message": {
+        "header": {
+            "status_code": 200,
+            "execute_time": 0.0058
+        },
+        "body": {
+            "subtitle": {
+                "subtitle_id": 18116,
+                "restricted": 0,
+                "subtitle_body": "[00:20.51] Heart beats fast",
+                "subtitle_language": "en",
+                "script_tracking_url": "http:\/\/tracking.musixmatch.com\/t1.0\/gs2ObSlxR9vsuyJ9XYRITJw==\/",
+                "pixel_tracking_url": "http:\/\/tracking.musixmatch.com\/t1.0\/gs2ObSlxR9vsuGDsbZwOULTQ==\/",
+                "html_tracking_url": "http:\/\/tracking.musixmatch.com\/t1.0\/gs2ObSlxR9yR97gQ==\/",
+                "lyrics_copyright": "Lyrics powered by www.musiXmatch.com"
+            }
+        }
+    }
+}

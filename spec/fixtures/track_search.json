@@ -1,0 +1,111 @@
+{
+    "message": {
+        "header": {
+            "status_code": 200,
+            "execute_time": 0.011786937713623,
+            "available": 756
+        },
+        "body": {
+            "track_list": [
+                {
+                    "track": {
+                        "track_id": 196403687,
+                        "track_name": "Stuck With U (with Justin Bieber)",
+                        "track_name_translation_list": [],
+                        "track_rating": 100,
+                        "commontrack_id": 110409326,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 1,
+                        "num_favourite": 636,
+                        "album_id": 37959199,
+                        "album_name": "Stuck with U",
+                        "artist_id": 45255120,
+                        "artist_name": "Ariana Grande feat. Justin Bieber",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Ariana-Grande-Justin-Bieber/Stuck-With-U-with-Justin-Bieber?utm_source=application&utm_campaign=api&utm_medium=hrhm.info%3A1409611237714",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Ariana-Grande-Justin-Bieber/Stuck-With-U-with-Justin-Bieber/edit?utm_source=application&utm_campaign=api&utm_medium=hrhm.info%3A1409611237714",
+                        "restricted": 0,
+                        "updated_time": "2020-05-18T12:20:50Z",
+                        "primary_genres": {
+                            "music_genre_list": []
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 192070537,
+                        "track_name": "Intentions",
+                        "track_name_translation_list": [],
+                        "track_rating": 99,
+                        "commontrack_id": 106881942,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 1,
+                        "num_favourite": 2268,
+                        "album_id": 36649292,
+                        "album_name": "Intentions",
+                        "artist_id": 43859832,
+                        "artist_name": "Justin Bieber feat. Quavo",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Justin-Bieber-Quavo/Intentions?utm_source=application&utm_campaign=api&utm_medium=hrhm.info%3A1409611237714",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Justin-Bieber-Quavo/Intentions/edit?utm_source=application&utm_campaign=api&utm_medium=hrhm.info%3A1409611237714",
+                        "restricted": 0,
+                        "updated_time": "2020-03-22T17:33:38Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 34,
+                                        "music_genre_parent_id": 0,
+                                        "music_genre_name": "Music",
+                                        "music_genre_name_extended": "Music",
+                                        "music_genre_vanity": "Music"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 190333863,
+                        "track_name": "Yummy",
+                        "track_name_translation_list": [],
+                        "track_rating": 97,
+                        "commontrack_id": 105544714,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 1,
+                        "num_favourite": 2638,
+                        "album_id": 36270367,
+                        "album_name": "R&Bieber - EP",
+                        "artist_id": 33491916,
+                        "artist_name": "Justin Bieber",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Justin-Bieber-3/Yummy?utm_source=application&utm_campaign=api&utm_medium=hrhm.info%3A1409611237714",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Justin-Bieber-3/Yummy/edit?utm_source=application&utm_campaign=api&utm_medium=hrhm.info%3A1409611237714",
+                        "restricted": 0,
+                        "updated_time": "2020-02-14T11:59:08Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 34,
+                                        "music_genre_parent_id": 0,
+                                        "music_genre_name": "Music",
+                                        "music_genre_name_extended": "Music",
+                                        "music_genre_vanity": "Music"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

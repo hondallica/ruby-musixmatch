@@ -1,0 +1,66 @@
+{
+    "message": {
+        "header": {
+            "status_code": 200,
+            "available": 20,
+            "execute_time": 0.092275857925415
+        },
+        "body": {
+            "artist_list": [
+                {
+                    "artist": {
+                        "artist_id": 99,
+                        "artist_mbid": "382f1005-e9ab-4684-afd4-0bdae4ee37f2",
+                        "artist_name": "2Pac",
+                        "artist_country": "US",
+                        "artist_alias_list": [
+                            {
+                                "artist_alias": "2 PAC"
+                            },
+                            {
+                                "artist_alias": "TuPac"
+                            },
+                            {
+                                "artist_alias": "Tupac Shakur"
+                            },
+                            {
+                                "artist_alias": "Tupac Amaru Shakur"
+                            },
+                            {
+                                "artist_alias": "2 Pac Fe. Dr. Dre"
+                            },
+                            {
+                                "artist_alias": "2pac (Makaveli the Don)"
+                            }
+                        ],
+                        "artist_rating": 93,
+                        "artist_twitter_url": "",
+                        "updated_time": "2012-03-26T13:24:02Z"
+                    }
+                },
+                {
+                    "artist": {
+                        "artist_id": 100,
+                        "artist_mbid": "a8ebde98-7e91-46c7-992c-90039ba42017",
+                        "artist_name": "De La Soul",
+                        "artist_country": "",
+                        "artist_alias_list": [
+                            {
+                                "artist_alias": "Delasoul"
+                            },
+                            {
+                                "artist_alias": "Dela Soul"
+                            },
+                            {
+                                "artist_alias": "De la Soul"
+                            }
+                        ],
+                        "artist_rating": 63,
+                        "artist_twitter_url": "",
+                        "updated_time": "2011-06-03T08:55:27Z"
+                    }
+                }
+            ]
+        }
+    }
+}
